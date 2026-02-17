@@ -7,18 +7,18 @@ Python 3.13
 
 ## Installation ##
 
-# 1. Clone Repository
+## 1. Clone Repository
 git clone https://github.com/Aswin-ashi/miniresume-aswin-raj-k.git
 
 cd miniresume-aswin-raj-k
 
-# 2. Install Dependencies
+## 2. Install Dependencies
 pip install -r requirements.txt
 
-## Run Application
+## 3. Run Application
 python -m uvicorn main:app --reload
 
-## open browser
+## 4. open browser
 http://127.0.0.1:8000/docs
 
 ## API Endpoints
