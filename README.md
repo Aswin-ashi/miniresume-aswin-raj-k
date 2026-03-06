@@ -5,6 +5,9 @@ A lightweight FastAPI REST API for uploading, filtering, and managing candidate 
 ## Python Version ##
 Python 3.13
 
+## Database ##
+Database: SQLite using SQLAlchemy ORM
+
 ## Installation ##
 
 # 1. Clone Repository
